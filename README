@@ -3,6 +3,7 @@ LungNet: Deep Learning Approach for Thoracic Disease Classification
 Aradhya Alva Rathnakar, Bhavan Kumar Basavaraju, Mahamaya Panda, Shashi Kumar Kadari Mallikarjuna
 
 How to Run the LungNet Segmentation and Ensemble Classification Models:
+
 Prerequisites Before running the LungNet models, ensure you have the following installed: 
 
 Python 3.8 or higher 
